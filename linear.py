@@ -1,7 +1,8 @@
-# adsoft 
+# juvi
 import numpy as np
 import os
 #import matplotlib.pyplot as plt
+
 
 # TensorFlow
 import tensorflow as tf
